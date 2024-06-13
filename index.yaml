@@ -9,6 +9,6 @@ entries:
     name: weatherchart
     type: application
     urls:
-    - https://github.com/ShayTurkia/chart-repo.git/weatherchart-0.1.0.tgz
+    - https://github.com/ShayTurkia/chart-repo/weatherchart-0.1.0.tgz
     version: 0.1.0
 generated: "2024-06-13T13:21:45.777814998+03:00"
