@@ -3,12 +3,12 @@ entries:
   weatherchart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-13T13:21:45.778236494+03:00"
+    created: "2024-06-13T14:33:02.813977637+03:00"
     description: A Helm chart for Kubernetes
     digest: 279b481894aa9dbf03d7151ba595bb0f3647b8c2a67b4c6ea1e6ee314f03a296
     name: weatherchart
     type: application
     urls:
-    - https://github.com/ShayTurkia/chart-repo/weatherchart-0.1.0.tgz
+    - https://shayturkia.github.io/chart-repo/weatherchart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-13T13:21:45.777814998+03:00"
+generated: "2024-06-13T14:33:02.813622149+03:00"
